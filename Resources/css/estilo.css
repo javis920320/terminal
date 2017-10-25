@@ -1,0 +1,36 @@
+#principal{
+	background-image: url('../img/wizard.jpg');
+}
+
+#pie{
+
+	font-size: 18px;
+	color: white;
+
+
+}
+
+
+.contenedor{
+
+	width: 500px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+
+#mensajeanul{
+
+	width: 500px;
+	height: 40px;
+	border-color: black;
+	margin-left:800px; 
+	font-style: bold;
+	font-size: 18;
+	text-align: center;
+	margin:;
+
+
+
+}
+
